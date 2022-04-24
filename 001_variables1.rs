@@ -1,4 +1,4 @@
-//RUSTLINGS EXERCISES
+//RUSTLINGS VARIABLES EXERCISE 1
 
 fn main() {
     let x = 5;
