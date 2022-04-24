@@ -1,4 +1,5 @@
 RUSTLINGS VARIABLES 3 EXERCISE
+
 fn main() {
 
     let mut x: u32 = 3;
