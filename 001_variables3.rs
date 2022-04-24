@@ -1,8 +1,4 @@
-// variables3.rs
-// Make me compile! Execute the command `rustlings hint variables3` if you want a hint :)
-
-// I AM NOT DONE
-
+RUSTLINGS VARIABLES 3 EXERCISE
 fn main() {
 
     let mut x: u32 = 3;
